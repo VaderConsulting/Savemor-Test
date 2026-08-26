@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Data.Entity;
+
+namespace Savemor.Models
+{
+    public class ProductCategory
+    {
+        public int ID { get; set; }
+        public int ProductID { get; set; }
+        public int CategoryID { get; set; }
+
+    }
+}
