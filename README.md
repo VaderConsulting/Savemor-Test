@@ -21,6 +21,10 @@ C# ASP.NET MVC 4 test website for Savemor Pharmacy: category home page, product 
 
 Open `SavemorTest.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 4.5
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2013
