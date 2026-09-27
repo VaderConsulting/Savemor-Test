@@ -27,6 +27,8 @@ Open `SavemorTest.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 - **Assembly copyright:** Copyright ©  2013
 
 ## License
